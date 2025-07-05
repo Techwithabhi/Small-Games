@@ -8,7 +8,7 @@ print("Choose 1 option between these [r = Rock], [p = Paper], [s = scissors]")
 youstr = input("Enter Your Choice: ") # getting input by the user
 youdict = {"r" : 1, "p" : 2, "s" : 3}
 reversedict = {1 : "Rock", 2 : "Paper", 3 : "Scissors"}
-hjsgfdkbsdj
+
 you = youdict[youstr]
 
 print(f"You choose {reversedict[you]}\nSystem Choose {reversedict[system]}")
