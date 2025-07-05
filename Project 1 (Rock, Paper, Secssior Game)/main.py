@@ -10,7 +10,7 @@ youdict = {"r" : 1, "p" : 2, "s" : 3}
 reversedict = {1 : "Rock", 2 : "Paper", 3 : "Scissors"}
 
 you = youdict[youstr]
-
+dsgfuas
 print(f"You choose {reversedict[you]}\nSystem Choose {reversedict[system]}")
 
 if(system == you):
