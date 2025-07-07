@@ -17,7 +17,7 @@ function playGame(userChoice) {
             resultText += "You are the Winner 🏅";
         } else {
             resultText += "You Lose! Computer is the Winner 🏅";
-        }fhgolifdihgoidhoighr
+        }
     }
 
     document.getElementById("result").innerHTML = resultText;
